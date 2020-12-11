@@ -1,1 +1,2 @@
-# favoritos
+# Favoritos
+- [Dev](dev.md)
