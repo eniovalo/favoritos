@@ -1,1 +1,10 @@
 # Dev - Link de favoritos
+- Java:
+  - Thread:
+    - Multithread e Núcles da CPU: <https://stackoverflow.com/questions/34689709/java-threads-and-number-of-cores#:~:text=Lets%20say%20you%20started%2030,per%20core%20at%20a%20time).&text=One%20thread%20can%20have%20hundred,similar%20to%20threads%20in%20java).>
+    - Refatoração para multithread: <https://youtu.be/pRQUoOMKrJM>
+- Kubernetes:
+  - Health Check:
+    - Introdução: <https://medium.com/dev-genius/understanding-kubernetes-probes-5daaff67599a>
+    - Implementação: <https://medium.com/swlh/implement-health-checks-for-kubernetes-in-your-application-951eb483a05c>
+    - Exemplo: <https://openliberty.io/guides/kubernetes-microprofile-health.html>
