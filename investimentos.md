@@ -1,1 +1,14 @@
 # Investimentos - Link de Favoritos
+- Ações:
+  - Carteiras sugeridas do BB: <https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/investimentos/carteiras-sugeridas-bb/>
+  - Imposto de Renda: <https://www.bussoladoinvestidor.com.br/imposto-de-renda-em-acoes/>
+  - Imposto de Renda - Outras Informações: <https://www.sunoresearch.com.br/artigos/imposto-de-renda-guia/>
+  - Robôs de aplicação: <https://smarttbot.com/>
+- BDR:
+  - Desvantagens: <https://respostas.sunoresearch.com.br/pergunta/quais-as-desvantagens-em-comprar-bdrs/>
+- Fundo Imobiliário (FII):
+  - Detalhes: <https://www.fundsexplorer.com.br/>
+  - Imposto de Renda: <https://www.bussoladoinvestidor.com.br/imposto-de-renda-em-fundos-imobiliarios/>
+  - Imposto de Renda no caso de Amortizações: <https://www.bussoladoinvestidor.com.br/amortizacao-de-fundos-imobiliarios-ir/>
+  - Informações gerais: <https://www.clubefii.com.br/>
+  - Ranking: <https://www.fundsexplorer.com.br/ranking>
