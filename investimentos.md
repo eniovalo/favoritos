@@ -1,0 +1,1 @@
+# Investimentos - Link de Favoritos
