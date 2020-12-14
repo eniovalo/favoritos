@@ -1,9 +1,17 @@
 # Investimentos - Link de Favoritos
 - Ações:
+  - Ação fracionada: <https://ajuda.easynvest.com.br/hc/pt-br/articles/115005044134-Como-comprar-lote-Fracion%C3%A1rio>
+  - CAPEX: <https://www.sunoresearch.com.br/artigos/capex/>
   - Carteiras sugeridas do BB: <https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/investimentos/carteiras-sugeridas-bb/>
+  - Depreciação e Amortização: <https://www.sunoresearch.com.br/artigos/depreciacao-amortizacao/>
+  - Fórmula de Graham: <https://www.pobrepoupador.com/2013/11/formula-graham-preco-justo.html>
   - Imposto de Renda: <https://www.bussoladoinvestidor.com.br/imposto-de-renda-em-acoes/>
   - Imposto de Renda - Outras Informações: <https://www.sunoresearch.com.br/artigos/imposto-de-renda-guia/>
+  - Indicadores Financeiros mais importantes: <https://www.sunoresearch.com.br/artigos/os-indicadores-mais-importantes-em-uma-analise/>
+  - Margem EBITDA: <https://www.sunoresearch.com.br/artigos/margem-ebitda/>
+  - Preço médio: <https://www.bussoladoinvestidor.com.br/calculo-do-preco-medio-de-acoes/>
   - Robôs de aplicação: <https://smarttbot.com/>
+  - Subscrição - Tipos de ação: <http://daltonvieira.com/subscricao-saiba-como-exercer-ou-negociar-o-seu-direito#:~:text=Para%20o%20acionista%20vender%20o,cust%C3%B3dia%20na%20conta%20do%20acionista>
 - BDR:
   - Desvantagens: <https://respostas.sunoresearch.com.br/pergunta/quais-as-desvantagens-em-comprar-bdrs/>
 - Fundo Imobiliário (FII):
