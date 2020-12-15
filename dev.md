@@ -1,4 +1,6 @@
 # Dev - Link de favoritos
+- Backend:
+  - Backend para iniciantes (Akita) - Parte 1: <https://youtu.be/Qjk-cSW-jk4>
 - Java:
   - Teste:
     - Mock com Redis: <https://blog.grakn.ai/java-redis-mock-7bde1b46969>
