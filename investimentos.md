@@ -2,7 +2,10 @@
 - Ações:
   - Ação fracionada: <https://ajuda.easynvest.com.br/hc/pt-br/articles/115005044134-Como-comprar-lote-Fracion%C3%A1rio>
   - CAPEX: <https://www.sunoresearch.com.br/artigos/capex/>
-  - Carteiras sugeridas do BB: <https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/investimentos/carteiras-sugeridas-bb/>
+  - Carteiras sugeridas:
+    - BB: <https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/investimentos/carteiras-sugeridas-bb/>
+    - BTG: <https://www.btgpactualdigital.com/analises/analises-de-acoes>
+  - Detalhes: <https://www.sunoresearch.com.br/acoes>
   - Depreciação e Amortização: <https://www.sunoresearch.com.br/artigos/depreciacao-amortizacao/>
   - Fórmula de Graham: <https://www.pobrepoupador.com/2013/11/formula-graham-preco-justo.html>
   - Imposto de Renda: <https://www.bussoladoinvestidor.com.br/imposto-de-renda-em-acoes/>
@@ -12,11 +15,21 @@
   - Preço médio: <https://www.bussoladoinvestidor.com.br/calculo-do-preco-medio-de-acoes/>
   - Robôs de aplicação: <https://smarttbot.com/>
   - Subscrição - Tipos de ação: <http://daltonvieira.com/subscricao-saiba-como-exercer-ou-negociar-o-seu-direito#:~:text=Para%20o%20acionista%20vender%20o,cust%C3%B3dia%20na%20conta%20do%20acionista>
+  - Taxas: <https://www.tororadar.com.br/blog/taxa-emolumentos-bovespa-o-que-e>
+  - Valores em tempo real: <http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/cotacoes/>
 - BDR:
   - Desvantagens: <https://respostas.sunoresearch.com.br/pergunta/quais-as-desvantagens-em-comprar-bdrs/>
+- Debênture:
+  - Informações: <http://www.debentures.com.br>
 - Fundo Imobiliário (FII):
   - Detalhes: <https://www.fundsexplorer.com.br/>
   - Imposto de Renda: <https://www.bussoladoinvestidor.com.br/imposto-de-renda-em-fundos-imobiliarios/>
   - Imposto de Renda no caso de Amortizações: <https://www.bussoladoinvestidor.com.br/amortizacao-de-fundos-imobiliarios-ir/>
   - Informações gerais: <https://www.clubefii.com.br/>
   - Ranking: <https://www.fundsexplorer.com.br/ranking>
+- Mercado:
+  - Cotações: <https://br.advfn.com>
+  - Detalhes: <https://statusinvest.com.br>
+  - Notícias: 
+    - Suno: <https://www.sunoresearch.com.br/noticias>
+    - XP: <https://conteudos.xpi.com.br/>
