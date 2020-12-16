@@ -21,6 +21,10 @@
   - Desvantagens: <https://respostas.sunoresearch.com.br/pergunta/quais-as-desvantagens-em-comprar-bdrs/>
 - Debênture:
   - Informações: <http://www.debentures.com.br>
+- Fundo de Investimentos:
+  - Detalhes dos fundos: <https://www.sunoresearch.com.br/fundos-de-investimento>
+  - Detalhes dos fundos na CVM: <http://sistemas.cvm.gov.br/fundos.asp>
+  - Tipos de fundos multimercado: <https://www.sunoresearch.com.br/artigos/fundos-long-short>
 - Fundo Imobiliário (FII):
   - Detalhes: <https://www.fundsexplorer.com.br/>
   - Imposto de Renda: <https://www.bussoladoinvestidor.com.br/imposto-de-renda-em-fundos-imobiliarios/>
