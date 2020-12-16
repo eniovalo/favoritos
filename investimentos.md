@@ -31,9 +31,12 @@
   - Imposto de Renda no caso de Amortizações: <https://www.bussoladoinvestidor.com.br/amortizacao-de-fundos-imobiliarios-ir/>
   - Informações gerais: <https://www.clubefii.com.br/>
   - Ranking: <https://www.fundsexplorer.com.br/ranking>
-- Mercado:
+- Mercado Financeiro:
   - Cotações: <https://br.advfn.com>
   - Detalhes: <https://statusinvest.com.br>
+  - Fórum: 
+    - Bastter: <https://bastter.com/mercado>
   - Notícias: 
     - Suno: <https://www.sunoresearch.com.br/noticias>
     - XP: <https://conteudos.xpi.com.br/>
+  - Rating: <https://clubedospoupadores.com/investimentos/como-funciona-classificacao-de-risco.html>
