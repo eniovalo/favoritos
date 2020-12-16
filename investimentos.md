@@ -24,6 +24,8 @@
 - ETF:
   - Lista: <http://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/etf/renda-variavel/etfs-listados/>
   - O que é: <https://blog.rico.com.vc/etf>
+- ETF dos Estados Unidos:
+  - Detalhes: <https://etfdb.com/>
 - Fundo de Investimentos:
   - Detalhes dos fundos: <https://www.sunoresearch.com.br/fundos-de-investimento>
   - Detalhes dos fundos na CVM: <http://sistemas.cvm.gov.br/fundos.asp>
