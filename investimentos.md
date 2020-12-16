@@ -21,6 +21,9 @@
   - Desvantagens: <https://respostas.sunoresearch.com.br/pergunta/quais-as-desvantagens-em-comprar-bdrs/>
 - Debênture:
   - Informações: <http://www.debentures.com.br>
+- ETF:
+  - Lista: <http://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/etf/renda-variavel/etfs-listados/>
+  - O que é: <https://blog.rico.com.vc/etf>
 - Fundo de Investimentos:
   - Detalhes dos fundos: <https://www.sunoresearch.com.br/fundos-de-investimento>
   - Detalhes dos fundos na CVM: <http://sistemas.cvm.gov.br/fundos.asp>
