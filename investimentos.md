@@ -14,6 +14,7 @@
   - Margem EBITDA: <https://www.sunoresearch.com.br/artigos/margem-ebitda/>
   - Preço médio: <https://www.bussoladoinvestidor.com.br/calculo-do-preco-medio-de-acoes/>
   - Robôs de aplicação: <https://smarttbot.com/>
+  - Subscrição - Bônus: <https://www.sunoresearch.com.br/artigos/bonus-de-subscricao/>
   - Subscrição - Tipos de ação: <http://daltonvieira.com/subscricao-saiba-como-exercer-ou-negociar-o-seu-direito#:~:text=Para%20o%20acionista%20vender%20o,cust%C3%B3dia%20na%20conta%20do%20acionista>
   - Taxas: <https://www.tororadar.com.br/blog/taxa-emolumentos-bovespa-o-que-e>
   - Valores em tempo real: <http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/cotacoes/>
