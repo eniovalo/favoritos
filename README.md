@@ -5,3 +5,4 @@ Minha lista de favoritos. =]
 - [Governo](governo.md)
 - [Investimentos](investimentos.md)
 - [Segurança](seguranca.md)
+- [Yoga](yoga.md)
