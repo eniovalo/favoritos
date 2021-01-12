@@ -47,5 +47,7 @@
     - XP: <https://conteudos.xpi.com.br/>
   - Rating: <https://clubedospoupadores.com/investimentos/como-funciona-classificacao-de-risco.html>
 - REITS:
+  - Informações gerais: <https://www.reit.com>
+  - Notícias: <https://www.hoyacapital.com/blog>
   - Tributação de imposto na fonte dos rendimentos mensais: <https://bastter.com/mercado/forum/834388>
 
