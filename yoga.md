@@ -1,3 +1,5 @@
 # Yoga
+- Meditação:
+  - Zazen: <https://youtu.be/Gh5uoVePjEo>
 - Posturas:
-  - [Nauli Kriya](https://www.youtube.com/watch?v=vcORnG9yN3A) (Barriga negativa).
+  - Nauli Kriya (Barriga negativa): <https://youtu.be/vcORnG9yN3A>
