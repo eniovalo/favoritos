@@ -23,6 +23,10 @@
 - Conta no Exterior:
   - Abrir conta no exterior: <https://www.suno.com.br/artigos/corretora-americana/>
   - Enviar dinheiro para o exterior: <https://www.remessaonline.com.br/blog/remessa-online-e-avenue-securities-qual-e-a-melhor-opcao/>
+  - Garantia:
+    - FINRA: <https://brokercheck.finra.org/>
+    - Garantia em caso de quebra ou fraude: <https://bastter.com/mercado/forum/814631>
+    - SIPC: <https://www.sipc.org/list-of-members/>
   - Imposto de renda:
     - Carne Leão - Declaração de dividendos: <https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/pagamentos-e-parcelamentos/pagamento-do-imposto-de-renda-de-pessoa-fisica/carne-leao/carne-leao>
     - Ganho Capital - DARF para ganhos no exterior: <http://receita.economia.gov.br/orientacao/tributaria/pagamentos-e-parcelamentos/pagamento-do-imposto-de-renda-de-pessoa-fisica/ganho-de-capital/programa-de-apuracao-de-ganhos-de-capital-moeda-nacional>
@@ -54,7 +58,12 @@
     - XP: <https://conteudos.xpi.com.br/>
   - Rating: <https://clubedospoupadores.com/investimentos/como-funciona-classificacao-de-risco.html>
 - REITS / Stocks:
-  - Informações gerais: <https://www.reit.com>
-  - Notícias: <https://www.hoyacapital.com/blog>
+  - Consulta de ativos na custodia: <https://bastter.com/mercado/forum/828471/consulta-formal-a-custodia-de-ativos-em-bolsa-dos-eua>
+  - Notícias:
+    - Hoya Capital: <https://www.hoyacapital.com/blog>
+    - Investopedia: <https://www.investopedia.com/>
+    - Seeking Alpha: <https://seekingalpha.com/>
+    - Reits: <https://www.reit.com>
+  - Ranking de Stocks: <https://www.dividend.com/>
   - Tributação de imposto na fonte dos rendimentos mensais: <https://bastter.com/mercado/forum/834388>
   - Tributação de investimentos: <https://protraderinvestimentos.com/tributacao-de-investimentos-no-exterior>
