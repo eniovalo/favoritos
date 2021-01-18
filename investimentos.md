@@ -20,6 +20,13 @@
   - Valores em tempo real: <http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/cotacoes/>
 - BDR:
   - Desvantagens: <https://respostas.sunoresearch.com.br/pergunta/quais-as-desvantagens-em-comprar-bdrs/>
+- Conta no Exterior:
+  - Abrir conta no exterior: <https://www.suno.com.br/artigos/corretora-americana/>
+  - Dicas sobre ETFs no exterior: <https://jornadadodinheiro.com/investir/etfs-exterior/>
+  - Enviar dinheiro para o exterior: <https://www.remessaonline.com.br/blog/remessa-online-e-avenue-securities-qual-e-a-melhor-opcao/>
+  - Imposto de renda:
+    - Carne Leão - Declaração de dividendos: <https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/pagamentos-e-parcelamentos/pagamento-do-imposto-de-renda-de-pessoa-fisica/carne-leao/carne-leao>
+    - Ganho Capital - DARF para ganhos no exterior: <http://receita.economia.gov.br/orientacao/tributaria/pagamentos-e-parcelamentos/pagamento-do-imposto-de-renda-de-pessoa-fisica/ganho-de-capital/programa-de-apuracao-de-ganhos-de-capital-moeda-nacional>
 - Debênture:
   - Informações: <http://www.debentures.com.br>
 - ETF:
