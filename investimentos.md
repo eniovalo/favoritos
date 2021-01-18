@@ -22,7 +22,6 @@
   - Desvantagens: <https://respostas.sunoresearch.com.br/pergunta/quais-as-desvantagens-em-comprar-bdrs/>
 - Conta no Exterior:
   - Abrir conta no exterior: <https://www.suno.com.br/artigos/corretora-americana/>
-  - Dicas sobre ETFs no exterior: <https://jornadadodinheiro.com/investir/etfs-exterior/>
   - Enviar dinheiro para o exterior: <https://www.remessaonline.com.br/blog/remessa-online-e-avenue-securities-qual-e-a-melhor-opcao/>
   - Imposto de renda:
     - Carne Leão - Declaração de dividendos: <https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/pagamentos-e-parcelamentos/pagamento-do-imposto-de-renda-de-pessoa-fisica/carne-leao/carne-leao>
@@ -32,8 +31,9 @@
 - ETF:
   - Lista: <http://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/etf/renda-variavel/etfs-listados/>
   - O que é: <https://blog.rico.com.vc/etf>
-- ETF dos Estados Unidos:
+- ETF no Exterior:
   - Detalhes: <https://etfdb.com/>
+  - Dicas: <https://jornadadodinheiro.com/investir/etfs-exterior/>
 - Fundo de Investimentos:
   - Detalhes dos fundos: <https://www.sunoresearch.com.br/fundos-de-investimento>
   - Detalhes dos fundos na CVM: <http://sistemas.cvm.gov.br/fundos.asp>
@@ -53,8 +53,8 @@
     - Suno: <https://www.sunoresearch.com.br/noticias>
     - XP: <https://conteudos.xpi.com.br/>
   - Rating: <https://clubedospoupadores.com/investimentos/como-funciona-classificacao-de-risco.html>
-- REITS:
+- REITS / Stocks:
   - Informações gerais: <https://www.reit.com>
   - Notícias: <https://www.hoyacapital.com/blog>
   - Tributação de imposto na fonte dos rendimentos mensais: <https://bastter.com/mercado/forum/834388>
-
+  - Tributação de investimentos: <https://protraderinvestimentos.com/tributacao-de-investimentos-no-exterior>
