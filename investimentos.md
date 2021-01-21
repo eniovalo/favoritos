@@ -50,6 +50,9 @@
   - Ranking: <https://www.fundsexplorer.com.br/ranking>
 - Mercado Financeiro:
   - Cotações: <https://br.advfn.com>
+  - DARF:
+    - Instruções sobre preenchimento: <https://blog.rico.com.vc/darf-acoes>
+    - Exemplo de uma DARF de Fundo Imobiliário: <https://youtu.be/TQTM8UQ5i60>
   - Detalhes: <https://statusinvest.com.br>
   - Fórum: 
     - Bastter: <https://bastter.com/mercado>
