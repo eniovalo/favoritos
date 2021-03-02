@@ -49,6 +49,7 @@
   - Informações gerais: <https://www.clubefii.com.br/>
   - Ranking: <https://www.fundsexplorer.com.br/ranking>
 - Mercado Financeiro:
+  - Conversor de moeda: <https://www.bcb.gov.br/conversao> 
   - Cotações: <https://br.advfn.com>
   - DARF:
     - Instruções sobre preenchimento: <https://blog.rico.com.vc/darf-acoes>
