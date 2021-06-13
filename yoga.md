@@ -1,4 +1,4 @@
-# Yoga
+# Yoga - Favoritos
 - Meditação:
   - Zazen: <https://youtu.be/Gh5uoVePjEo>
 - Posturas:
