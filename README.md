@@ -5,6 +5,7 @@ Minha lista de favoritos. =]
 - [Dev](dev.md)
 - [Governo](governo.md)
 - [Investimentos](investimentos.md)
+- [Massagem](massagem.md)
 - [Qi Gong](qigong.md)
 - [Pets](pets.md)
 - [Segurança](seguranca.md)
