@@ -3,6 +3,8 @@
   - Informações:
     - Laboratório de Garagem: <http://labdegaragem.com/>
 - Backend:
+  - API Rest:
+    - Padronização: <https://wssilva-willian.medium.com/design-de-api-rest-9807a5b16c9f>
   - Backend para iniciantes (Akita) - Parte 1: <https://youtu.be/Qjk-cSW-jk4>
   - Backend para iniciantes (Akita) - Parte 2: <https://youtu.be/N6vgZr1k03g>
   - Concorrência e Paralelismo (Akita) - Parte 1: <https://youtu.be/cx1ULv4wYxM>
