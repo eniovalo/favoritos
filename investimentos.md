@@ -44,7 +44,8 @@
   - Tipos de fundos multimercado: <https://www.sunoresearch.com.br/artigos/fundos-long-short>
 - Fundo Imobiliário (FII):
   - Detalhes: <https://www.fundsexplorer.com.br/>
-  - Guia para iniciantes na análise: <https://youtu.be/CesOp6eIicU>
+  - Guia para análise de FII de Papél: <https://youtu.be/-J0GrYO9qbw>
+  - Guia para análise de FII de Tijolos: <https://youtu.be/CesOp6eIicU>
   - Imposto de Renda: <https://www.bussoladoinvestidor.com.br/imposto-de-renda-em-fundos-imobiliarios/>
   - Imposto de Renda no caso de Amortizações: <https://www.bussoladoinvestidor.com.br/amortizacao-de-fundos-imobiliarios-ir/>
   - Informações gerais: <https://www.clubefii.com.br/>
