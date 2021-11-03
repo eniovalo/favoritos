@@ -22,6 +22,9 @@
     - Introdução: <https://medium.com/dev-genius/understanding-kubernetes-probes-5daaff67599a>
     - Implementação: <https://medium.com/swlh/implement-health-checks-for-kubernetes-in-your-application-951eb483a05c>
     - Exemplo: <https://openliberty.io/guides/kubernetes-microprofile-health.html>
+- Linux:
+  - Terminal:
+    - Configurar as setas UP e DOWN para buscar o histórico: <https://askubuntu.com/questions/59846/bash-history-search-partial-up-arrow>
 - Spring Boot:
   - Actuator: <https://www.baeldung.com/spring-boot-actuators>
   - Health: <https://www.baeldung.com/spring-boot-health-indicators>
