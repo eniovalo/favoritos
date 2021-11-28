@@ -13,6 +13,7 @@
   - Gerenciando Memória (Akita) - Parte 2: <https://youtu.be/DGU1awKrNiA>
 - Design:
   - Introdução ao Krita: <https://youtu.be/LfQbSdfYdt8>
+  - Principais recursos: <https://youtu.be/tz0Pv1jpQ6w>
 - Java:
   - Teste:
     - Mock com Redis: <https://blog.grakn.ai/java-redis-mock-7bde1b46969>
