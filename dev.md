@@ -11,6 +11,9 @@
   - Concorrência e Paralelismo (Akita) - Parte 2: <https://youtu.be/gYJSWs-gp1g>
   - Gerenciando Memória (Akita) - Parte 1: <https://youtu.be/9AK_1gqEfkQ>
   - Gerenciando Memória (Akita) - Parte 2: <https://youtu.be/DGU1awKrNiA>
+  - Spring Boot:
+    - Actuator: <https://www.baeldung.com/spring-boot-actuators>
+    - Health: <https://www.baeldung.com/spring-boot-health-indicators>
 - Design:
   - Introdução ao Krita: <https://youtu.be/LfQbSdfYdt8>
   - Principais recursos: <https://youtu.be/tz0Pv1jpQ6w>
@@ -28,6 +31,6 @@
 - Linux:
   - Terminal:
     - Configurar as setas UP e DOWN para buscar o histórico: <https://askubuntu.com/questions/59846/bash-history-search-partial-up-arrow>
-- Spring Boot:
-  - Actuator: <https://www.baeldung.com/spring-boot-actuators>
-  - Health: <https://www.baeldung.com/spring-boot-health-indicators>
+- Monitoração:
+  - Prometheus:
+    - Principais métricas: <https://chronosphere.io/learn/an-introduction-to-the-four-primary-types-of-prometheus-metrics/>
