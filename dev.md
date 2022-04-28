@@ -34,3 +34,10 @@
 - Monitoração:
   - Prometheus:
     - Principais métricas: <https://chronosphere.io/learn/an-introduction-to-the-four-primary-types-of-prometheus-metrics/>
+- Tecnologia:
+  - Sites com informações gerais:
+    - Daily Dev: <https://app.daily.dev/>
+    - DZone: <https://dzone.com/>
+    - InfoQ: <https://www.infoq.com/>
+    - Medium: <https://medium.com>
+    - SD Times: <https://sdtimes.com/>
