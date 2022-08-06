@@ -15,8 +15,11 @@
     - Actuator: <https://www.baeldung.com/spring-boot-actuators>
     - Health: <https://www.baeldung.com/spring-boot-health-indicators>
 - Design:
-  - Introdução ao Krita: <https://youtu.be/LfQbSdfYdt8>
-  - Principais recursos: <https://youtu.be/tz0Pv1jpQ6w>
+  - Krita:
+    - Introdução ao Krita: <https://youtu.be/LfQbSdfYdt8>
+    - Principais recursos: <https://youtu.be/tz0Pv1jpQ6w>
+  - Pixel Art:
+    - Piskel (Editor online): <https://www.piskelapp.com/>
 - Java:
   - Teste:
     - Mock com Redis: <https://blog.grakn.ai/java-redis-mock-7bde1b46969>
