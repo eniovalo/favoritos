@@ -11,6 +11,11 @@
   - Concorrência e Paralelismo (Akita) - Parte 2: <https://youtu.be/gYJSWs-gp1g>
   - Fila IBM MQ:
     - Introdução: <https://developer.ibm.com/learningpaths/ibm-mq-badge/mq-fundamentals>
+    - Como usar a interface web: <https://developer.ibm.com/learningpaths/ibm-mq-badge/setup-use-ibm-mq-console>
+    - Dicas: <https://developer.ibm.com/learningpaths/ibm-mq-badge/mq-developer-cheat-sheet/>
+    - Dicas para otimização: <https://developer.ibm.com/articles/mq-best-practices/>
+    - Exemplo de uma aplicação: <https://developer.ibm.com/tutorials/mq-develop-mq-jms>
+    - Rodando primeira aplicação: <https://developer.ibm.com/learningpaths/ibm-mq-badge/create-configure-queue-manager/>
   - Gerenciando Memória (Akita) - Parte 1: <https://youtu.be/9AK_1gqEfkQ>
   - Gerenciando Memória (Akita) - Parte 2: <https://youtu.be/DGU1awKrNiA>
   - Spring Boot:
