@@ -47,6 +47,9 @@
     - Principais recursos: <https://youtu.be/tz0Pv1jpQ6w>
   - Pixel Art:
     - Piskel (Editor online): <https://www.piskelapp.com/>
+- Frontend:
+- React Native:
+  - Dicas rápidas do React: <https://www.reactnative.express/>
 - Java:
   - Teste:
     - Mock com Redis: <https://blog.grakn.ai/java-redis-mock-7bde1b46969>
