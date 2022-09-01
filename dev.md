@@ -15,6 +15,7 @@
     - Como usar a interface web: <https://developer.ibm.com/learningpaths/ibm-mq-badge/setup-use-ibm-mq-console>
     - Dicas: <https://developer.ibm.com/learningpaths/ibm-mq-badge/mq-developer-cheat-sheet/>
     - Dicas para otimização: <https://developer.ibm.com/articles/mq-best-practices/>
+    - Documentação das classes: <https://docs.oracle.com/javaee/7/api/index.html>
     - Exemplo de uma aplicação: <https://developer.ibm.com/tutorials/mq-develop-mq-jms>
     - Projetos de exemplo: <https://github.com/ibm-messaging/mq-dev-patterns/tree/master/JMS>
     - Rodando primeira aplicação: <https://developer.ibm.com/learningpaths/ibm-mq-badge/create-configure-queue-manager/>
