@@ -11,11 +11,13 @@
   - Concorrência e Paralelismo (Akita) - Parte 2: <https://youtu.be/gYJSWs-gp1g>
   - Fila IBM MQ:
     - Introdução: <https://developer.ibm.com/learningpaths/ibm-mq-badge/mq-fundamentals>
+    - APIs das classes principais: <https://www.ibm.com/docs/en/ibm-mq/9.0?topic=applications-jms-model>
     - Como criar uma session: <https://www.ibm.com/docs/en/ibm-mq/9.0?topic=applications-creating-session-in-jms-application>
     - Como usar a interface web: <https://developer.ibm.com/learningpaths/ibm-mq-badge/setup-use-ibm-mq-console>
     - Dicas: <https://developer.ibm.com/learningpaths/ibm-mq-badge/mq-developer-cheat-sheet/>
     - Dicas para otimização: <https://developer.ibm.com/articles/mq-best-practices/>
     - Documentação das classes: <https://docs.oracle.com/javaee/7/api/index.html>
+    - Exemplo de um listener de consumo: <https://github.com/ibm-messaging/mq-dev-samples/tree/master/DemoMessageListenerApplication>
     - Exemplo de uma aplicação: <https://developer.ibm.com/tutorials/mq-develop-mq-jms>
     - Projetos de exemplo: <https://github.com/ibm-messaging/mq-dev-patterns/tree/master/JMS>
     - Rodando primeira aplicação: <https://developer.ibm.com/learningpaths/ibm-mq-badge/create-configure-queue-manager/>
@@ -24,6 +26,8 @@
   - Spring Boot:
     - Actuator: <https://www.baeldung.com/spring-boot-actuators>
     - Health: <https://www.baeldung.com/spring-boot-health-indicators>
+  - Tópico Apache Kafka:
+    - Introdução: <https://medium.com/@gabrielqueiroz/o-que-%C3%A9-esse-tal-de-apache-kafka-a8f447cac028>
 - Design:
   - Krita:
     - Introdução ao Krita: <https://youtu.be/LfQbSdfYdt8>
