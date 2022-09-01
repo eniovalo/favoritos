@@ -23,9 +23,22 @@
     - Rodando primeira aplicação: <https://developer.ibm.com/learningpaths/ibm-mq-badge/create-configure-queue-manager/>
   - Gerenciando Memória (Akita) - Parte 1: <https://youtu.be/9AK_1gqEfkQ>
   - Gerenciando Memória (Akita) - Parte 2: <https://youtu.be/DGU1awKrNiA>
+  - JMS: 
+    - Introdução: <http://walderson.com/IBM/RUP7/LargeProjects/tech.j2ee/guidances/concepts/java_messaging_service_jms_84F49452.html>
+  - JPA:
+    - Transactional: <https://www.devmedia.com.br/conheca-o-spring-transactional-annotations/32472>
+    - Rollback: <https://stackoverflow.com/questions/18203860/spring-transaction-rollbackfor-and-norollbackfor-both-defined>
+    - Por dentro do funcionamento do Transactional: <https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth>
+  - Quarkus:
+    - Escopo dos componentes: <https://quarkus.io/guides/cdi#what-scopes-can-i-actually-use-in-my-quarkus-application>
+    - JUnit - Mock: <https://quarkus.io/blog/mocking/>
+    - Multiny (Resposta assíncrona): <https://quarkus.io/guides/mutiny-primer>
+    - Reactive: <https://quarkus.io/guides/getting-started-reactive>
   - Spring Boot:
     - Actuator: <https://www.baeldung.com/spring-boot-actuators>
+    - Escopo dos componentes: <https://www.baeldung.com/spring-bean-scopes>
     - Health: <https://www.baeldung.com/spring-boot-health-indicators>
+    - JUnit - Mockando beans e acionando métodos privados: <https://www.baeldung.com/spring-reflection-test-utils>
   - Tópico Apache Kafka:
     - Introdução: <https://medium.com/@gabrielqueiroz/o-que-%C3%A9-esse-tal-de-apache-kafka-a8f447cac028>
 - Design:
