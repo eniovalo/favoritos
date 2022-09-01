@@ -9,6 +9,8 @@
   - Backend para iniciantes (Akita) - Parte 2: <https://youtu.be/N6vgZr1k03g>
   - Concorrência e Paralelismo (Akita) - Parte 1: <https://youtu.be/cx1ULv4wYxM>
   - Concorrência e Paralelismo (Akita) - Parte 2: <https://youtu.be/gYJSWs-gp1g>
+  - Fila IBM MQ:
+    - Introdução: <https://developer.ibm.com/learningpaths/ibm-mq-badge/mq-fundamentals>
   - Gerenciando Memória (Akita) - Parte 1: <https://youtu.be/9AK_1gqEfkQ>
   - Gerenciando Memória (Akita) - Parte 2: <https://youtu.be/DGU1awKrNiA>
   - Spring Boot:
