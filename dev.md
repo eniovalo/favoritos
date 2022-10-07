@@ -41,6 +41,9 @@
     - JUnit - Mockando beans e acionando métodos privados: <https://www.baeldung.com/spring-reflection-test-utils>
   - Tópico Apache Kafka:
     - Introdução: <https://medium.com/@gabrielqueiroz/o-que-%C3%A9-esse-tal-de-apache-kafka-a8f447cac028>
+- Data Science:
+  - Editor online:
+    - Google Colaboratory: <https://colab.research.google.com/notebooks>
 - Design:
   - Krita:
     - Introdução ao Krita: <https://youtu.be/LfQbSdfYdt8>
