@@ -42,6 +42,9 @@
   - Tópico Apache Kafka:
     - Introdução: <https://medium.com/@gabrielqueiroz/o-que-%C3%A9-esse-tal-de-apache-kafka-a8f447cac028>
 - Data Science:
+  - Dataset:
+    - Google: <https://datasetsearch.research.google.com>
+    - Kaggle: <https://www.kaggle.com>
   - Editor online:
     - Google Colaboratory: <https://colab.research.google.com/notebooks>
 - Design:
