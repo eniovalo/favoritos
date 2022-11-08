@@ -63,6 +63,9 @@
     - Suno: <https://www.sunoresearch.com.br/noticias>
     - XP: <https://conteudos.xpi.com.br/>
   - Rating: <https://clubedospoupadores.com/investimentos/como-funciona-classificacao-de-risco.html>
+  - Relatórios:
+    - Banco do Brasil: <https://www.bb.com.br/site/private/inteligencia-de-mercado>
+    - BTG Pactual: <https://content.btgpactual.com.br/research/home>
 - REITS / Stocks:
   - Consulta de ativos na custodia: <https://bastter.com/mercado/forum/828471/consulta-formal-a-custodia-de-ativos-em-bolsa-dos-eua>
   - Notícias:
