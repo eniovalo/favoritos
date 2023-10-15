@@ -1,8 +1,6 @@
 # Favoritos
 Minha lista de favoritos. =]
-- [Alongamento](alongamento.md)
 - [Antepassados](antepassados.md)
-- [Comida](comida.md)
 - [Dev](dev.md)
 - [Governo](governo.md)
 - [Investimentos](investimentos.md)
