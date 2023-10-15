@@ -1,4 +1,4 @@
-# Investimentos - Link de Favoritos
+# Investimentos - Favoritos
 - Ações:
   - Ação fracionada: <https://ajuda.easynvest.com.br/hc/pt-br/articles/115005044134-Como-comprar-lote-Fracion%C3%A1rio>
   - CAPEX: <https://www.sunoresearch.com.br/artigos/capex/>
