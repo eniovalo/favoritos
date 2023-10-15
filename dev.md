@@ -13,7 +13,6 @@
     - Introdução: <https://developer.ibm.com/learningpaths/ibm-mq-badge/mq-fundamentals>
     - APIs das classes principais: <https://www.ibm.com/docs/en/ibm-mq/9.0?topic=applications-jms-model>
     - Como criar uma session: <https://www.ibm.com/docs/en/ibm-mq/9.0?topic=applications-creating-session-in-jms-application>
-    - Como usar a interface web: <https://developer.ibm.com/learningpaths/ibm-mq-badge/setup-use-ibm-mq-console>
     - Dicas: <https://developer.ibm.com/learningpaths/ibm-mq-badge/mq-developer-cheat-sheet/>
     - Dicas para otimização: <https://developer.ibm.com/articles/mq-best-practices/>
     - Documentação das classes: <https://docs.oracle.com/javaee/7/api/index.html>
@@ -64,9 +63,9 @@
     - Refatoração para multithread: <https://youtu.be/pRQUoOMKrJM>
 - Kubernetes:
   - Health Check:
-    - Introdução: <https://medium.com/dev-genius/understanding-kubernetes-probes-5daaff67599a>
-    - Implementação: <https://medium.com/swlh/implement-health-checks-for-kubernetes-in-your-application-951eb483a05c>
     - Exemplo: <https://openliberty.io/guides/kubernetes-microprofile-health.html>
+    - Implementação: <https://medium.com/swlh/implement-health-checks-for-kubernetes-in-your-application-951eb483a05c>
+    - Introdução: <https://medium.com/dev-genius/understanding-kubernetes-probes-5daaff67599a>
 - Linux:
   - Terminal:
     - Configurar as setas UP e DOWN para buscar o histórico: <https://askubuntu.com/questions/59846/bash-history-search-partial-up-arrow>
